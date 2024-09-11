@@ -1,5 +1,4 @@
 streamlit==1.25.0
 pandas==2.0.3
-Pillow==9.5.0
-wheel==0.38.4
-
+sklearn
+numpy
